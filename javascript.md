@@ -6,4 +6,5 @@ _For up-to-date tips, see [Foam Recipes](https://foambubble.github.io/foam/recip
 [[clean-code.md]]
 [[concepts.md]]
 [[learning-resources.md]]
+[[wtfjs.md]]
 

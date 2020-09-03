@@ -12,5 +12,6 @@
 
 [[todo.md]]
 [[inbox.md]]
+[[chattieBot.md]]
 
 
